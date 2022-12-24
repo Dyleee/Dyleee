@@ -37,5 +37,5 @@ I love efficient and sophisticated code. I also admire optimization to the fulle
 [![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dyleee&theme=synthwave)](https://github.com/dyleee)<br>
 
 #### Social medias
-Twitter: https://twitter.com/iamdylee_<br>
-E-mail: contact@mewbot.xyz
+<br>
+E-mail: calistaff33@proton.me
